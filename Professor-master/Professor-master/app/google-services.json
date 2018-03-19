@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "48767678783",
+    "firebase_url": "https://professor-a23d0.firebaseio.com",
+    "project_id": "professor-a23d0",
+    "storage_bucket": "professor-a23d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48767678783:android:fe6d9f5ef84deef5",
+        "android_client_info": {
+          "package_name": "com.example.nishant.professor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48767678783-std72bv6ot66oenn4dchkd59nqnc6reh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nishant.professor",
+            "certificate_hash": "7fff1bb93c83e1cec49a18265b4681f0958a7f47"
+          }
+        },
+        {
+          "client_id": "48767678783-vv94msfiat2esk4bnotlpcrlvm14edn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpUUjazBT-N8IieNvKpBUoIr3d2WXy2Sw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48767678783-vv94msfiat2esk4bnotlpcrlvm14edn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
